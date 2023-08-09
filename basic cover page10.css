@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 20px;
+}
+
+.name {
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+    font-family: "roboto";
+}
+
+.about {
+    font-size: 10px;
+    color: white;
+    font-family: "roboto";
+}
+
+.watch-now {
+    background-color: white;
+    color: #ff8348;
+    border-radius: 8px;
+    height: 38px;
+    width: 90px;
+    font-size: 12px;
+    font-family: "roboto";
+    padding: 2px;
+    text-align: center;
+    margin: 8px;
+    border-color: white;
+}
+
+.heading {
+    font-size: 30px;
+    color: white;
+    font-family: "roboto";
+}
+
+.fish-image {
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.movie-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
